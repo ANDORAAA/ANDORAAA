@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Andrea! &#128406;&#127996;
+My goal is to become a spectacular front end web developer, and to enjoy the journey of success!
+I intend to be creating income from a job I love and am passionate about, and it is my intention to share my joy and light.&#127775;
 
 <!--
 **ANDORAAA/ANDORAAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
