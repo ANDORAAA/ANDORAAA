@@ -1,5 +1,5 @@
 # Hi, I'm Andrea! &#128406;&#127996;
-My goal is to become a spectacular front end web developer, and to enjoy the journey of success!<br/>
+My goal is to become a spectacular front end web developer, and enjoy the journey of success!<br/>
 I intend to be creating income from a job I love and am passionate about, and it is my intention to share my joy and light.✨
 
 # &#128187;Tech Stack
